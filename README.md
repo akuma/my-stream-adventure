@@ -1,3 +1,3 @@
 # my-stream-adventure
 
-> My `stream-adventure` adventure.
+> My adventure of [`stream-adventure`](https://github.com/substack/stream-adventure).
