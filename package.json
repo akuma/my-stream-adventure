@@ -1,0 +1,33 @@
+{
+  "name": "my-stream-adventure",
+  "version": "1.0.0",
+  "description": "My stream adventure",
+  "license": "MIT",
+  "repository": "akuma/my-stream-adventure",
+  "author": "Weijia Huang <ihuangwj@gmail.com>",
+  "engines": {
+    "node": ">=4"
+  },
+  "scripts": {
+    "lint": "xo"
+  },
+  "keywords": [
+    "stream",
+    "adventure"
+  ],
+  "devDependencies": {
+    "xo": "*"
+  },
+  "xo": {
+    "esnext": true,
+    "space": 2,
+    "semicolon": false
+  },
+  "dependencies": {
+    "concat-stream": "^1.5.1",
+    "install": "^0.8.1",
+    "npm": "^3.10.5",
+    "split": "^1.0.0",
+    "through2": "^2.0.1"
+  }
+}
