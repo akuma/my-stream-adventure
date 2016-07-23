@@ -27,6 +27,7 @@
     "concat-stream": "^1.5.1",
     "install": "^0.8.1",
     "npm": "^3.10.5",
+    "request": "^2.74.0",
     "split": "^1.0.0",
     "through2": "^2.0.1"
   }
