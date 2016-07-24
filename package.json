@@ -25,6 +25,7 @@
   },
   "dependencies": {
     "concat-stream": "^1.5.1",
+    "duplexer2": "^0.1.4",
     "install": "^0.8.1",
     "npm": "^3.10.5",
     "request": "^2.74.0",
