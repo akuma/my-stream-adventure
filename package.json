@@ -15,14 +15,6 @@
     "stream",
     "adventure"
   ],
-  "devDependencies": {
-    "xo": "*"
-  },
-  "xo": {
-    "esnext": true,
-    "space": 2,
-    "semicolon": false
-  },
   "dependencies": {
     "concat-stream": "^1.5.1",
     "duplexer2": "^0.1.4",
@@ -30,8 +22,17 @@
     "npm": "^3.10.5",
     "request": "^2.74.0",
     "split": "^1.0.0",
+    "stream-combiner": "^0.2.2",
     "through2": "^2.0.1",
     "trumpet": "^1.7.2",
     "websocket-stream": "^3.2.1"
+  },
+  "devDependencies": {
+    "xo": "*"
+  },
+  "xo": {
+    "esnext": true,
+    "space": 2,
+    "semicolon": false
   }
 }
